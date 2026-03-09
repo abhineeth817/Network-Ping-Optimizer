@@ -27,8 +27,11 @@ You might have to run the script multiple times in a single gaming session as wi
 # Usage
 Run the .bat file.
 Select:
+
 1 → Optimize for Gaming (stop + disable services)
+
 2 → Restore Normal Windows State
+
 3 → Exit
 
 Designed for gamers who want a quick way to reduce background activity during gaming sessions and easily revert afterward.
