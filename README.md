@@ -11,9 +11,13 @@ Simple interactive menu
 
 # Services Managed
 Windows Update (wuauserv)
+
 Background Intelligent Transfer Service (bits)
+
 Delivery Optimization (dosvc)
+
 SysMain (SysMain)
+
 Xbox Services (XblAuthManager, XblGameSave, XboxNetApiSvc)
 
 # Usage
